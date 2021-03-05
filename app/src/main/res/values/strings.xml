@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerViewAdvance</string>
+    <string name="new_offer_avail_discount_upto_50">New offer Avail Discount upto 50%</string>
+    <string name="get_upto_rs_100_off_on_zomato">Get upto Rs 100 off on zomato</string>
+    <string name="new_offers_amp_discount"><![CDATA[New Offers & discount]]></string>
+    <string name="title_discount">New Offer avail discount</string>
+    <string name="hotel_offer_desc">Zomato Paytm Offer: Get Rs 100 Cashback on Food Orders</string>
+</resources>
